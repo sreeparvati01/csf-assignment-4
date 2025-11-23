@@ -1,0 +1,2 @@
+
+For my future improvements, I will use Flexbox to manage alignment and spacing efficiently,and apply CSS Grid to structure sections of the page .I also aimed to integrate automation and testing workflows to make collaboration and code quality more efficient. Additional documentation, better error handling, and expanded functionality will further strenthen the project in upcoming versions.
